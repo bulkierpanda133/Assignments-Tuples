@@ -1,4 +1,4 @@
-#Task 1: Customer Order Processing Refine your skills in tuple unpacking by managing customer orders.
+
 def display_orders(orders):
     for order in orders:
         # Unpacking the tuple
